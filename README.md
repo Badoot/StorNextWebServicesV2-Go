@@ -6,7 +6,7 @@
 
 System Info:
 
-    go run stornext.go
+    go run stornext.go info
 
 File Info:
 
