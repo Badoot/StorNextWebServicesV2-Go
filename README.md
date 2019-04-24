@@ -7,6 +7,10 @@
 System Info:
 
     go run stornext.go info
+    
+Media Info:
+
+    go run stornext.go fsmedinfo
 
 File Info:
 
